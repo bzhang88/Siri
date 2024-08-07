@@ -1,6 +1,6 @@
 # Enhancing Software Failure Analysis through Semantic Similarity and Knowledge Graph Modeling
 
-This repository contains data related to the paper
+This repository related to the paper
 
 > Will update soon
 
